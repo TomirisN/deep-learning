@@ -1,0 +1,58 @@
+{
+    "dataset": "Figshare predator-prey cycles",
+    "target_variables": [
+        "algae",
+        "rotifers"
+    ],
+    "feature_variables": [
+        "algae",
+        "rotifers",
+        "egg_ratio",
+        "eggs",
+        "dead_animals",
+        "external_medium"
+    ],
+    "time_steps": 14,
+    "forecast_horizon": 1,
+    "train_shape": {
+        "X_train": [
+            1271,
+            14,
+            6
+        ],
+        "y_train": [
+            1271,
+            2
+        ]
+    },
+    "validation_shape": {
+        "X_val": [
+            274,
+            14,
+            6
+        ],
+        "y_val": [
+            274,
+            2
+        ]
+    },
+    "test_shape": {
+        "X_test": [
+            278,
+            14,
+            6
+        ],
+        "y_test": [
+            278,
+            2
+        ]
+    },
+    "metrics_scaled": {
+        "overall_mse": 0.008207427337765694,
+        "overall_mae": 0.05263402685523033
+    },
+    "metrics_original_scale": {
+        "overall_mse": 105.3516845703125,
+        "overall_mae": 4.57599401473999
+    }
+}
