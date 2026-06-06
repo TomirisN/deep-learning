@@ -1,0 +1,258 @@
+# Generated ecosystem descriptions
+# Model: C:\my_work_repo\deep-learning\final-project\models\gpt2-ecosystem
+# Count: 50
+# Date: 2026-06-06T10:59:55
+
+Prompt: In this forest ecosystem,
+Generated (1):
+In this forest ecosystem, Colombocephalus cuniculus interacts with Plectropium plectropium. Colombocephalus cuniculus interacts with Plectropium plectropium. Colombocephalus cuniculus interacts with Plectropium plectropium. Colombocephalus cuniculus interacts with Plectropium plectropium. Colombocephalus cuniculus interacts
+------------------------------------------------------------
+
+Prompt: In this forest ecosystem,
+Generated (2):
+In this forest ecosystem, Biones americana feeds on Merzogonus americana. Merzogonus americana feeds on Cenatopaxus. Merzogonus americana feeds on Acanthopoda. Merzogonus americana feeds on Stromata. Merzogonus americana feeds on Merzogonus americana. Merzogonus
+------------------------------------------------------------
+
+Prompt: In this forest ecosystem,
+Generated (3):
+In this forest ecosystem, Arctica (Mammalia) feeds on Carina (Mammalia). Arctica (Mammalia) feeds on Carina (Mammalia). Arctica (Mammalia) feeds on Carina (Mammalia). Arctica (Mammalia) feeds on Carina (Mammalia). Arctica (Mammalia) feeds on Carina (Mammalia).
+------------------------------------------------------------
+
+Prompt: In this forest ecosystem,
+Generated (4):
+In this forest ecosystem, Apophis morhua feeds on Rhododendron cunicea. Apophis morhua feeds on Rhododendron cunicea. Apophis morhua feeds on Rhododendron cunicea. Apophis morhua feeds on Rhododendron cunicea. Apophis morhua feeds on Rhododendron cunicea.
+------------------------------------------------------------
+
+Prompt: In this forest ecosystem,
+Generated (5):
+In this forest ecosystem, Pertus gaudyi (Insecta) interacts with Acacia. Pertus gaudyi (Insecta) interacts with Anthocetes. Pertus gaudyi (Insecta) interacts with Acacia. Pertus gaudyi (Insecta) interacts with Anthocetes. Pertus gaudyi (
+------------------------------------------------------------
+
+Prompt: In this marine food web,
+Generated (1):
+In this marine food web, Echinaus serenatum feeds on Salix scottulus. Echinaus serenatum (Insecta) interacts with Salix scottulus. Echinaus serenatum (Insecta) interacts with Salix scottulus. Echinaus serenatum (Insecta) interacts with Salix scottulus. Echinaus se
+------------------------------------------------------------
+
+Prompt: In this marine food web,
+Generated (2):
+In this marine food web, Sarcophagus annua interacts with Alpinus. Sarcophagus annua feeds on Pseudocorbus. Sarcophagus annua feeds on Melanogaster. Sarcophagus annua feeds on Pseudocorbus. Sarcophagus annua feeds on Acanthocaris. Sarcophagus annua feeds on Pseudocorbus.
+------------------------------------------------------------
+
+Prompt: In this marine food web,
+Generated (3):
+In this marine food web, Leucoglossum selga interacts with Argyllophora fusculatum. Leucoglossum selga (Insecta) interacts with Triticum (Magnoliopsida). Leucoglossum selga (Insecta) interacts with Stenotrichum virginica. Leucoglossum selga (Insecta)
+------------------------------------------------------------
+
+Prompt: In this marine food web,
+Generated (4):
+In this marine food web, Megachile borax preys on Anthrassus glabra. Megachile preys on Apis mellifera. Megachile preys on Hylaeus. Megachile preys on Melanogrammus. Megachile preys on Phrygium glabra. Megachile preys on Amorax glabra. Megachile
+------------------------------------------------------------
+
+Prompt: In this marine food web,
+Generated (5):
+In this marine food web, Aphisus minutus feeds on Chlorophyceae. Aphisus minutus feeds on Menthos. Aphisus minutus feeds on Aphis. Aphisus minutus feeds on Ficus. Aphisus minutus feeds on Melanogramma. Aphisus minutus feeds on Ficus. Aphisus minutus feeds on
+------------------------------------------------------------
+
+Prompt: In this ecosystem, predators
+Generated (1):
+In this ecosystem, predators include Bombus virgensis. Bombus virgensis feeds on Colomboides. Bombus virgensis interacts with Bombus virgensis. Bombus virgensis interacts with Bombus virgensis. Bombus virgensis interacts with Bombus virgensis. Bombus virgensis interacts with Bombus virgensis. Bombus virgensis interacts with Bombus vir
+------------------------------------------------------------
+
+Prompt: In this ecosystem, predators
+Generated (2):
+In this ecosystem, predators are Megachile falcata (Aves) feeds on Stellaria (Magnoliopsida). Megachile falcata (Aves) feeds on Pseudocarpum (Magnoliopsida). Megachile falcata (Aves) feeds on Ceratopsida (Magnoliopsida). Megachile falcata (Aves) feeds on C
+------------------------------------------------------------
+
+Prompt: In this ecosystem, predators
+Generated (3):
+In this ecosystem, predators include: Alcinogaster plectoides (Insecta) interacts with Ficus (Magnoliopsida). Alcinogaster plectoides (Insecta) interacts with Prunus nigra (Magnoliopsida). Alcinogaster plectoides (Insecta) interacts with Stramata (Magnoliopsida). Alcinogaster p
+------------------------------------------------------------
+
+Prompt: In this ecosystem, predators
+Generated (4):
+In this ecosystem, predators (Squamata) parasitizes Acheron. It parasitizes Pinopsida. It feeds on Pinopsida. It feeds on Bifidobacterium. Bifidobacterium feeds on Anemone. Bifidobacterium parasitizes Pristimon cunctata. Bifidobacterium parasitizes Anemone. B
+------------------------------------------------------------
+
+Prompt: In this ecosystem, predators
+Generated (5):
+In this ecosystem, predators of Phylacosus gabbericus (Teleostei) pollinates Euphaustus (Teleostei). Phylacosus gabbericus (Teleostei) pollinates Euphaustus (Teleostei). Phylacosus gabbericus (Teleostei) pollinates Euphaustus (Teleostei). Ph
+------------------------------------------------------------
+
+Prompt: The food chain includes
+Generated (1):
+The food chain includes: Echinocephalus pumelo (Magnoliopsida) feeds on Lagoia. Echinocephalus pumelo (Magnoliopsida) feeds on Pectus pumelo (Magnoliopsida). Echinocephalus pumelo (Magnoliopsida) feeds on Quercus nelson (Magnoliopsida). Echinocephal
+------------------------------------------------------------
+
+Prompt: The food chain includes
+Generated (2):
+The food chain includes: Chamomyrhinum brevicestris (Insecta) interacts with Acanthophyceae (Magnoliopsida). Chamomyrhinum brevicestris (Insecta) interacts with Melanogrammus (Magnoliopsida). Chamomyrhinum brevicestris (Insecta) interacts with Ficus mellifera (Magn
+------------------------------------------------------------
+
+Prompt: The food chain includes
+Generated (3):
+The food chain includes: Colonia alba (Malacostraca) feeds on Cebus alba (Malacostraca). Colonia alba feeds on Alba (Malacostraca). Colonia alba feeds on Arachnida (Malacostraca). Colonia alba feeds on Anthrophyx (Malacostraca). Colonia alba (Mal
+------------------------------------------------------------
+
+Prompt: The food chain includes
+Generated (4):
+The food chain includes: Arctosidae (Squamata) feeds on Daphne (Squamata). Arctosidae (Squamata) feeds on Lepidoptera (Squamata). Arctosidae (Squamata) feeds on Prunus. Arctosidae (Squamata) feeds on Pinnipopsida. Arctosidae (Squamata
+------------------------------------------------------------
+
+Prompt: The food chain includes
+Generated (5):
+The food chain includes: Boschia morhua (Magnoliopsida) feeds on Pteropus. Boschia morhua (Magnoliopsida) feeds on Echinacea. Boschia morhua (Magnoliopsida) feeds on Melchoglossum. Boschia morhua (Magnoliopsida) feeds on Mardina. Boschia morhua (Magnoliops
+------------------------------------------------------------
+
+Prompt: Bees and flowers interact as
+Generated (1):
+Bees and flowers interact as a food web. Bessiella semiculata feeds on Agaricus. Bessiella septica feeds on Alba. Bessiella septica feeds on Dittrichs. Bessiella septica feeds on Zanthum. Bessiella septica feeds on Salix. Bessiella septica feeds on Anthyl
+------------------------------------------------------------
+
+Prompt: Bees and flowers interact as
+Generated (2):
+Bees and flowers interact as they parasitizes flowers. Phoenifera causa feeds on Erysipelas flaccus. Phoenifera cusa feeds on Chrysippus cuermifolium. Phoenifera cusa feeds on Tertiary. Phoenifera cusa feeds on Lillipops. Phoenifera cusa feeds on Arachnida. Phoen
+------------------------------------------------------------
+
+Prompt: Bees and flowers interact as
+Generated (3):
+Bees and flowers interact as pollinators. Bees pollinates flowers of Lillipopsidea. Lillipopsidea parasitizes Bombus sp. (Hexapoda). Lillipopsidea parasitizes Bombus sp. (Hexapoda). Lillipopsidea parasitizes Bombus sp. (Hexapoda). Lillipopsidea parasitiz
+------------------------------------------------------------
+
+Prompt: Bees and flowers interact as
+Generated (4):
+Bees and flowers interact as a food web.
+
+Insecta interacts with plant food web.
+
+Insecta interacts with plant foods web.
+------------------------------------------------------------
+
+Prompt: Bees and flowers interact as
+Generated (5):
+Bees and flowers interact as the food web includes: Ceramis aureus (Aves) feeds on Arachnida (Magnoliopsida). Ceramis aureus (Aves) feeds on Euphaeca (Magnoliopsida). Ceramis aureus (Aves) feeds on Rhododendron (Magnoliopsida). Ceramis aureus (A
+------------------------------------------------------------
+
+Prompt: In a freshwater ecosystem,
+Generated (1):
+In a freshwater ecosystem, Largestus jalbertii interacts with Bombus. Largestus jalbertii interacts with Bombus. Largestus jalbertii interacts with Bombus. Largestus jalbertii interacts with Bombus. Largestus jalbertii interacts with Bombus. Largestus jalbertii interacts with Bombus. Larg
+------------------------------------------------------------
+
+Prompt: In a freshwater ecosystem,
+Generated (2):
+In a freshwater ecosystem, Trichoma pomata feeds on Lepidoptera. Trichoma pomata feeds on Sphenoida. Trichoma pomata feeds on Carthusia. Trichoma pomata feeds on Bombus. Trichoma pomata feeds on Staphylococcus aureus. Trichoma pomata feeds on Sphenoida. Tr
+------------------------------------------------------------
+
+Prompt: In a freshwater ecosystem,
+Generated (3):
+In a freshwater ecosystem, Apis mellifera feeds on Orthocephalus. Apis mellifera feeds on Osteographa. Apis mellifera feeds on Pseudomonas. Apis mellifera feeds on Sespera. Apis mellifera feeds on Anagonia. Apis mellifera feeds on Prunus. Apis mellifera feeds on Thal
+------------------------------------------------------------
+
+Prompt: In a freshwater ecosystem,
+Generated (4):
+In a freshwater ecosystem, the food web includes: Lusotremus flavus (Insecta) interacts with Beringia flavus (Magnoliopsida). Lusotremus flavus (Insecta) interacts with Beringia flavus (Magnoliopsida). Lusotremus flavus (Insecta) interacts with Bacillus violema (Magnoliopsida
+------------------------------------------------------------
+
+Prompt: In a freshwater ecosystem,
+Generated (5):
+In a freshwater ecosystem, Apis mellifera feeds on Eucalyptus glaucus. Apis mellifera feeds on Bivalves. Apis mellifera feeds on Lymphopsida. Apis mellifera feeds on Trichoma. Apis mellifera feeds on Chrysomoris. Apis mellifera feeds on Chrysomoris. Apis mellifera feeds on Chrys
+------------------------------------------------------------
+
+Prompt: In this terrestrial ecosystem,
+Generated (1):
+In this terrestrial ecosystem, Cineurus auratus feeds on Cineurus auratus. Cineurus auratus feeds on Cineurus auratus. Cineurus auratus feeds on Cineurus auratus. Cineurus auratus feeds on Cineurus auratus. Cineurus auratus feeds on Cineurus auratus. Cineurus auratus feeds on Cineurus auratus. Cine
+------------------------------------------------------------
+
+Prompt: In this terrestrial ecosystem,
+Generated (2):
+In this terrestrial ecosystem, Phylacophaga acanthosus feeds on Thrombium. Phylacophaga acanthos feeds on Chrysanthemum. Phylacophaga acanthos feeds on Caudina. Phylacophaga acanthos feeds on Caudina. Phylacophaga acanthos feeds on Clupea. Phylacophaga acanth
+------------------------------------------------------------
+
+Prompt: In this terrestrial ecosystem,
+Generated (3):
+In this terrestrial ecosystem, Melanogrammus griseocephalus feeds on Lomatopoda. Melanogrammus griseocephalus feeds on Perdita. Melanogrammus griseocephalus feeds on Melanogrammus grandis. Melanogrammus griseocephalus feeds on Melanogrammus grandis. Melanogrammus griseocephalus feeds on Mel
+------------------------------------------------------------
+
+Prompt: In this terrestrial ecosystem,
+Generated (4):
+In this terrestrial ecosystem, Bombus lutescens (Insecta) interacts with Caracal. Bombus lutescens (Insecta) interacts with Arachnida (Magnoliopsida). Bombus lutescens (Insecta) interacts with Erysipelopterygii (Magnoliopsida). Bombus lutescens (Insecta) interacts with Myrmecus (
+------------------------------------------------------------
+
+Prompt: In this terrestrial ecosystem,
+Generated (5):
+In this terrestrial ecosystem, Phyllocopidae feeds on Bombus piscifolius. Phyllocopidae feeds on Megachile. Phyllocopidae feeds on Lopatricus. Phyllocopidae feeds on Pescativus. Phyllocopidae feeds on Bombus. Phyllocopidae feeds on Megachile. Phyllocopidae feeds on
+------------------------------------------------------------
+
+Prompt: In this grassland food web,
+Generated (1):
+In this grassland food web, Ceanothus ceanothus feeds on Melicarabia. Melicarabia ceanothus feeds on Melicarabia. Melicarabia ceanothus feeds on Melicarabia. Melicarabia ceanothus feeds on Melicarabia. Melicarabia ceanothus feeds on Melic
+------------------------------------------------------------
+
+Prompt: In this grassland food web,
+Generated (2):
+In this grassland food web, Acanthys chrysostomata feeds on Melanogrammus spp. Melanogrammus. Melanogrammus spp. Melanogrammus pyrrhinopoda interacts with Heterogene. Melanogrammus pyrrhinopoda interacts with Trichogrammus aureus. Melanogrammus pyrrhinopoda interacts with Trichogram
+------------------------------------------------------------
+
+Prompt: In this grassland food web,
+Generated (3):
+In this grassland food web, Ophioglossum morhua feeds on Peculari. Ophioglossum morhua feeds on Rhabia. Ophioglossum morhua feeds on Arthrosus. Ophioglossum morhua feeds on Cercopithecus. Ophioglossum morhua feeds on Cercopithecus. Ophioglossum morhua feeds on
+------------------------------------------------------------
+
+Prompt: In this grassland food web,
+Generated (4):
+In this grassland food web, Phalacrocorax monocarpum feeds on Microphylla. Phalacrocorax monocarpum interacts with Solanum. Phalacrocorax monocarpum feeds on Solanum. Phalacrocorax monocarpum feeds on Phalacrocorax monocarpum. Phalacrocorax monocarp
+------------------------------------------------------------
+
+Prompt: In this grassland food web,
+Generated (5):
+In this grassland food web, Hylaeus trichopoda interacts with Cacoma (Pinopsida). Hylaeus trichopoda interacts with Ficus griseocollis. Hylaeus trichopoda interacts with Tertiaryis. Hylaeus trichopoda interacts with Perdita. Hylaeus trichopoda interacts with Melanogramma. Hylaeus trich
+------------------------------------------------------------
+
+Prompt: Pollinators in this ecosystem
+Generated (1):
+Pollinators in this ecosystem pollinates Bicolorus cinquercum. Bicolorus cinquercum feeds on Aracillata. Bicolorus cinquercum feeds on Echinococcus. Bicolorus cinquercum feeds on Plectropoda. Bicolorus cinquercum feeds on Echinococcus. Bicolorus cinquercum feeds
+------------------------------------------------------------
+
+Prompt: Pollinators in this ecosystem
+Generated (2):
+Pollinators in this ecosystem pollinates Caronias americana. Caronias americana feeds on Rufus americana. Caronias americana feeds on Rufus americana. Caronias americana feeds on Trifolium americana. Caronias americana feeds on Bifascula. Caronias americana feeds on Phytopis americana. Caronias americana
+------------------------------------------------------------
+
+Prompt: Pollinators in this ecosystem
+Generated (3):
+Pollinators in this ecosystem: Orobata jeanensis (Insecta) interacts with Rhus lupus (Magnoliopsida). Orobata jeanensis (Insecta) interacts with Dichroca americana (Magnoliopsida). Orobata jeanensis (Insecta) interacts with Tataria pectoralis (Magnoliopsida). Orobata j
+------------------------------------------------------------
+
+Prompt: Pollinators in this ecosystem
+Generated (4):
+Pollinators in this ecosystem pollinates Anthophyceae. Anthophyceae parasitizes Anthophyceae. Anthophyceae parasitizes Anthophyceae. Anthophyceae parasitizes Anthophyceae. Anthophyceae parasitizes Anthophyceae. Anthophyceae parasitizes Anthophyceae. Anthophyceae parasitizes Anthophyceae. Anth
+------------------------------------------------------------
+
+Prompt: Pollinators in this ecosystem
+Generated (5):
+Pollinators in this ecosystem pollinates Bacillariia liliopoda. Bacillariia liliopoda pollinates Bacillariia liliopoda. Bacillariia liliopoda pollinates Bacillariia liliopoda. Bacillariia liliopoda pollinates Bacillariia liliopoda. Bacillariia
+------------------------------------------------------------
+
+Prompt: Parasites in this ecosystem
+Generated (1):
+Parasites in this ecosystem (Insecta) interacts with Bombus viridis (Magnoliopsida). (Magnoliopsida) interacts with Bombus viridis (Magnoliopsida). Bombus viridis (Magnoliopsida) interacts with Bombus viridis (Magnoliopsida). Bombus viridis (Magnoliopsida) interacts with Bombus viridis (Magnoliopsida). Bomb
+------------------------------------------------------------
+
+Prompt: Parasites in this ecosystem
+Generated (2):
+Parasites in this ecosystem parasitizes Euphaus. Euphaus parasitizes Colopoda. Colopoda parasitizes Euphaus. Euphaus parasitizes Colopoda. Colopoda parasitizes Euphaus. Colopoda parasitizes Colopoda. Colopoda parasitizes Colopoda. Colopoda parasitizes Colop
+------------------------------------------------------------
+
+Prompt: Parasites in this ecosystem
+Generated (3):
+Parasites in this ecosystem pollinates Pinus japonicus. Pinus japonicus (Magnoliopsida) feeds on Arachnida (Pinopsida). Pinus japonicus (Magnoliopsida) interacts with Arachnida (Pinopsida). Pinus japonicus (Magnoliopsida) feeds on Colotremus (Pinopsida). Pinus japonicus (
+------------------------------------------------------------
+
+Prompt: Parasites in this ecosystem
+Generated (4):
+Parasites in this ecosystem feeds on Dendrona. Dendrona americana (Teleostei) feeds on Mucus. Dendrona americana (Teleostei) feeds on Phalacropoda. Dendrona americana (Teleostei) feeds on Zeta. Dendrona americana (Teleostei) feeds on Lantana. Dendrona
+------------------------------------------------------------
+
+Prompt: Parasites in this ecosystem
+Generated (5):
+Parasites in this ecosystem pollinates Stegoglossum. Chrysopidae interacts with Arctostomis. Chrysopidae interacts with Acetylosceles. Chrysopidae interacts with Perothosus. Chrysopidae interacts with Ceratopoda. Chrysopidae interacts with Conea. Chrysopidae interacts with Solanum. Chrysopidae interacts with Centorea. Chrysopidae
+------------------------------------------------------------
